@@ -1,4 +1,4 @@
-# Guía de Ejercicios y Algoritmos en Pseint
+# 📄Guía de Ejercicios y Algoritmos en Pseint
 Este documento proporciona una colección de scripts de Pseint organizados por días, cada uno abordando diferentes conceptos y desafíos en la programación. Desde fundamentos básicos del sistema operativo Linux y conceptos de compiladores e intérpretes, hasta ejercicios prácticos de programación, cálculo de áreas, y manejo de datos, esta guía cubre una amplia gama de temas. Cada sección incluye descripciones detalladas de los algoritmos, permitiendo a los usuarios explorar y aplicar sus conocimientos en programación de manera práctica. Los ejercicios están diseñados para facilitar el aprendizaje gradual, asegurando una comprensión sólida de los conceptos y habilidades necesarios en el desarrollo de software.
 ## Tabla de contenidos
 | Indice | Titulo  |
@@ -14,7 +14,7 @@ Este documento proporciona una colección de scripts de Pseint organizados por d
 | 9 | Día9 Ejercicios 1,2,3,4,5,6,7,8,9,10 |
 | 10 | Día10 Ejercicio 1,2,3,4 |
 
-### Instalación
+### ✔️Instalación
 Deberas ejecutar el comando git clone para copiar el repositorio
   [Link](https://github.com/KarenLore/Introducci-n-a-la-programaci-n.git)
 
@@ -307,3 +307,8 @@ Hecho por ***Karen Lorena Cristancho Caceres***
 
 > [!CAUTION]
 > No modifiques los algoritmos sin comprender completamente su funcionamiento. Esto podría llevar a errores inesperados.
+
+### 📞Contacto
+  Para preguntas, sugerencias o más información sobre el proyecto, no dudes en ponerte en contacto conmigo:
+  Nombre: Karen Lorena Cristancho
+  Email: karenlorenacriscaceres@gmail.com
